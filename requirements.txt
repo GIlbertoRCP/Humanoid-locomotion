@@ -1,0 +1,8 @@
+gymnasium[mujoco]==1.2.3
+stable-baselines3==2.8.0
+torch>=2.11
+numpy>=2.0
+imageio[ffmpeg]>=2.34
+tensorboard
+tqdm
+rich
